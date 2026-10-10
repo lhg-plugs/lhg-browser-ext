@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"小白一句话→浏览器插件：想法澄清、MV3规范代码生成、权限最小化、上架checklist脚本化检测","name":"lhg-browser-ext","source":"./"}]}
